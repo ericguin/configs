@@ -65,7 +65,7 @@
     "cpu": {
         "format": "{usage}% ",
         "tooltip": false,
-        "on-click": "foot htop"
+        "on-click": "foot btop"
     },
     "memory": {
         "format": "{}% "
